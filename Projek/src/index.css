@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+@font-face {
+    font-family: helvetica-bigga;
+    src: url(../src/assets/fonts/HelveticaNowText-Light.ttf);
+}
+
+@theme {
+   --font-helvetica-nikka: helvetica-bigga, "sans-serif";
+}
